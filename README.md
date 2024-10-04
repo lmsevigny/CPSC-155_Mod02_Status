@@ -1,4 +1,4 @@
-# Ch2.2
+# Module 02
 # Exercise: Git Status - Distinguishing between Staged, Modified and Untracked Files
 
 ## Step 1
